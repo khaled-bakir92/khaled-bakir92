@@ -38,7 +38,7 @@ A few projects from my work — more on [my portfolio](https://khaled-bakir.onli
 | Area | Technologies I work with |
 | :--- | :--- |
 | **Web** | JavaScript, TypeScript, React, Next.js, Vue, HTML, CSS, Tailwind CSS |
-| **Backend & data** | Node.js, Express, Java, Spring Boot, SQL, MySQL, Supabase |
+| **Backend & data** | Python, Node.js, Express, Java, Spring Boot, SQL, MySQL, Supabase |
 | **Mobile & desktop** | React Native, Flutter, Swift, SwiftUI, Kotlin |
 | **Design & delivery** | Figma, Git, Vercel, VPS deployment and backups |
 
