@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Khaled Bakir — Full-stack developer</title>
+<desc id="desc">Web, mobile and macOS. Websites, apps and automation. Gold code lightbulb on a dark navy background.</desc>
+<rect width="1200" height="360" rx="20" fill="#1C2430"/>
+<path d="M36 36H1164M36 324H1164" stroke="#313C4B"/>
+<path d="M36 36H132M1068 324H1164" stroke="#F6A10B" stroke-width="3"/>
+<g transform="translate(54 65) scale(.82)">
+<g stroke="#F6A10B" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+<path d="M82 14 C52 14 36 30 36 58 L36 78 C36 92 28 100 14 100 C28 100 36 108 36 122 L36 132 C36 158 54 178 72 190"/>
+<path d="M118 14 C148 14 164 30 164 58 L164 78 C164 92 172 100 186 100 C172 100 164 108 164 122 L164 132 C164 158 146 178 128 190"/>
+<path d="M114 42 L86 166"/>
+</g>
+<g fill="#F5EFE7"><rect x="62" y="206" width="76" height="12" rx="6"/><rect x="66" y="226" width="68" height="12" rx="6"/><rect x="70" y="246" width="60" height="12" rx="6"/><rect x="88" y="266" width="24" height="10" rx="5"/></g>
+</g>
+<path d="M264 78V282" stroke="#313C4B"/>
+<g font-family="'Courier New',monospace">
+<text x="310" y="101" fill="#F6A10B" font-size="17" letter-spacing="3">WEB / MOBILE / macOS</text>
+<text x="307" y="166" fill="#F5EFE7" font-size="54" font-weight="700">Khaled Bakir</text>
+<text x="310" y="212" fill="#F5EFE7" font-size="28">Full-stack developer</text>
+<text x="310" y="258" fill="#D8C4B6" font-size="20">Websites, apps &amp; automation.</text>
+<text x="310" y="294" fill="#F6A10B" font-size="16">khaled-bakir.online</text>
+</g>
+</svg>
