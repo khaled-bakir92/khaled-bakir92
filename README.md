@@ -1,11 +1,60 @@
-# 💫 About Me:
-Hey! Im Khaled a Web Developer currently working on Freelance web development projects.<br> I’m currently learning: Advanced backend development and server-side technologies.
+<a href="https://khaled-bakir.online/"><img src="./profile-banner.svg" alt="Khaled Bakir — Full-stack developer. Websites, apps and automation." width="1200" /></a>
 
+<p align="center">
+  <a href="https://khaled-bakir.online/"><strong>Portfolio</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/khaled-bakir/"><strong>LinkedIn</strong></a> &nbsp; / &nbsp;
+  <a href="mailto:khaled.bakir92@gmail.com"><strong>Email</strong></a>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=khaled-bakir92&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-bakir92&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### Hi, I'm Khaled.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I build websites, online shops and full-stack applications for web, mobile and macOS. I also create browser extensions and automations that turn repetitive tasks into useful tools.
+
+Right now, I'm expanding **KURA with Next.js and Supabase**, with daily backups to my VPS.
+
+**Open to freelance projects and full-time opportunities.** Have something in mind? [Let's talk →](https://khaled-bakir.online/#contact)
+
+### Selected work
+
+A few projects from my work — more on [my portfolio](https://khaled-bakir.online/#projects).
+
+| Project | What I built | Stack / Links |
+| :--- | :--- | :--- |
+| **KURA** | A sports community app with bookings, waitlists, player profiles and rankings. Supports German, English and Arabic. | Next.js · TypeScript · Supabase<br>[Live app ↗](https://koramman.com/) · Private repository |
+| **EasyVps** | A native macOS app for managing Linux servers over SSH and SFTP, including files, services, containers and backups. | Swift · SwiftUI · SSH/SFTP<br>[Product website ↗](https://easyvps.app/) · Private repository |
+| **Traumplatz** | A responsive business website with service pages, a service-area map and a contact form. | Next.js · React · TypeScript<br>[Live website ↗](https://traumplatz-gartenpflege.de/) · [Source ↗](https://github.com/khaled-bakir92/Traumplatz) |
+| **LexArtes** | A legal flashcard learning app with spaced repetition and learning statistics, built as a university team project with Lexmea. | Vue · TypeScript · Java · Spring Boot<br>[Project details ↗](https://khaled-bakir.online/#projects) · Private repository |
+
+### My main stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-252E3B?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-252E3B?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-252E3B?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-252E3B?style=flat-square&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-252E3B?style=flat-square&amp;logo=supabase&amp;logoColor=3ECF8E" alt="Supabase" />
+</p>
+
+| Area | Technologies I work with |
+| :--- | :--- |
+| **Web** | JavaScript, TypeScript, React, Next.js, Vue, HTML, CSS, Tailwind CSS |
+| **Backend & data** | Node.js, Express, Java, Spring Boot, SQL, MySQL, Supabase |
+| **Mobile & desktop** | React Native, Flutter, Swift, SwiftUI, Kotlin |
+| **Design & delivery** | Figma, Git, Vercel, VPS deployment and backups |
+
+<details>
+<summary><strong>Beyond websites: automation & AI tools</strong></summary>
+
+- **Telegram bots & web scraping:** built a bot that finds current apartment listings and sends alerts through Telegram.
+- **Chrome extensions:** build tools that add functionality directly to the browser.
+- **Custom AI skills:** built a skill that analyzes someone's writing samples and turns their style into reusable instructions for AI-assisted writing.
+- **AI-assisted development:** use Codex, Claude Code and MCP-connected tools throughout my workflow.
+
+I'm continuing to develop my backend and server administration skills. I have practical exposure to Docker and CI/CD and am building more experience with both.
+
+</details>
+
+---
+
+**Have a project to build or a role to discuss?**  
+[Get in touch →](https://khaled-bakir.online/#contact)
